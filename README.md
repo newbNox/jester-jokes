@@ -1,10 +1,10 @@
-# Jokester
-Jokester is simple NPM package that provides you with list of prewritten jokes that you can easily add to your project. No need to figure out jokes on your own.
+# Jester Jokes
+Jester Jokes is simple NPM package that provides you with list of prewritten jokes that you can easily add to your project. No need to figure out jokes on your own.
 
 ## Installing
 1. Install the package
     ```bash
-    npm i jokester
+    npm i jester-jokes
     ```
 2. Fetch random joke
     ```javascript
