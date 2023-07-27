@@ -8,9 +8,9 @@ Jokester is simple NPM package that provides you with list of prewritten jokes t
     ```
 2. Fetch random joke
     ```javascript
-    const jokester = require('jokester');
+    const jester = require('jester-jokes');
     
-    const joke = jokester.getJoke();
+    const joke = jester.getJoke();
     console.log(joke);
     ```
 3. **Profit!**
